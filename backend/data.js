@@ -1,0 +1,66 @@
+const products = [
+  {
+    id: 1,
+    name: "Smartwatch",
+    category: "Electronics",
+    price: 299,
+    image: "./public/smartwatch.jpg",
+  },
+  {
+    id: 2,
+    name: "Sofa",
+    category: "Furniture",
+    price: 1200,
+    image: "./public/sofa.jpg",
+  },
+  {
+    id: 3,
+    name: "The Silent Patient",
+    category: "Books",
+    price: 10,
+    image: "./public/book-sp.jpg",
+  },
+  {
+    id: 4,
+    name: "Bluetooth Speaker",
+    category: "Electronics",
+    price: 129,
+    image: "./public/bluetooth_speaker.jpg",
+  },
+  {
+    id: 5,
+    name: "Running Shoes",
+    category: "Sports",
+    price: 90,
+    image: "./public/running_shoes.jpg",
+  },
+  {
+    id: 6,
+    name: "Soccer Ball",
+    category: "Sports",
+    price: 30,
+    image: "./public/soccer_ball.jpg",
+  },
+  {
+    id: 8,
+    name: "Man's Search for Meaning",
+    category: "Books",
+    price: 20,
+    image: "./public/book-msfm.jpg",
+  },
+  {
+    id: 9,
+    name: "Tablet",
+    category: "Electronics",
+    price: 399,
+    image: "./public/tablet.jpg",
+  },
+  {
+    id: 10,
+    name: "Bookshelf",
+    category: "Furniture",
+    price: 200,
+    image: "./public/bookshelf.jpg",
+  },
+];
+export default products;

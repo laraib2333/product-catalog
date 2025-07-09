@@ -1,0 +1,28 @@
+
+@import "tailwindcss";
+h1{
+font-family:'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+font-weight: 700;
+   text-shadow: 2px 3px 4px #080201;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px #49251c;
+}
+h2{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px #49251c;
+
+}
+select{
+       
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px #a6928d;
+
+}
+h5{
+    font-weight: 600;
+    font-style: italic;
+    text-shadow:  2px 2px 4px rgba(99, 70, 62, 0.7);
+}
